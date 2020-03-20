@@ -1,18 +1,21 @@
 # python-tutoring
 
  * [Introduction](#introduction)
- * [Installing python](Installing Python)
+ * [Installing python](#Installing Python)
  * [Accessing python](#accessing-python)
    * Hello world - Python shell
- * Finding help
+ * [Finding help](#finding-help)
    * python documentation
    * other resources?
  * Variables
    * assigning, accessing, manipulating
  * Datatypes I
-    * strings, integers
-* Input / Output
-* Conditionals ("if" statements)
+   * strings, integers, floats
+ * Input / Output
+
+`2020-03-14`
+---------------------------------
+ * Conditionals ("if" statements)
  * Datatypes II
    * lists, dicts
  * Loops
