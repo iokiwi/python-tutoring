@@ -1,7 +1,7 @@
 # python-tutoring
 
  * [Introduction](#introduction)
- * [Installing python](#Installing Python)
+ * [Installing python](#installing-Python)
  * [Accessing python](#accessing-python)
    * Hello world - Python shell
  * [Finding help](#finding-help)
